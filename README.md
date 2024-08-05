@@ -6,7 +6,7 @@ Using visualization in Tableau to identify insights and compose a concise report
 
 ## Project Requirement:
 Completeness: 3 insights need to be reported and should be 1-2 pages long, in PDF.
-Correctness: Explaining each observation on how it concludes.
+Correctness: Explain each observation and how it concludes.
 
 ## 📊 Dashboard 1:
 📌 Malaria in Africa
