@@ -1,4 +1,4 @@
-# YLL_UD_P1_WorkingWithData
+# YLL-Udacity-Project1-Working-With-Data
 Udacity Working With Data Project 1
 
 ## Key Objective of Project 1:
